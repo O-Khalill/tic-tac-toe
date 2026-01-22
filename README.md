@@ -1,2 +1,1 @@
-# tic-tac-toe
-Basic tic-tac-toe game for react state revision
+tic-tac-toe project for state rivison.
